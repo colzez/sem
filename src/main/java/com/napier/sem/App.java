@@ -5,6 +5,6 @@ public class App
 {
     public static void main(String[] args)
     {
-        System.out.println("Boo yah! Happiness(crd-Red velvet)");
+        System.out.println("Boo yah! Song name-Happiness");
     }
 }
