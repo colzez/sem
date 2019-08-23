@@ -3,7 +3,7 @@ sudo: required
 language: java
 
 services:
-  - docke
+  - docker
 
 after_success:
   - docker build -t se_methods .
